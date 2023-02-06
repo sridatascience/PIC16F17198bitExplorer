@@ -1,6 +1,6 @@
 /* COMPILER DIRECTIVES FOR CHIP CONFIGURATION BITS*/
 #include<xc.h>
-#pragma config LVP = OFF
+
 #pragma config WDTE = OFF        // WDT operating mode (WDT enabled regardless of sleep; SWDTEN is ignored)
 
 
